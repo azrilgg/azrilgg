@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ahmad+Azriel;Frontend+Developer;RPL+Student+%26+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
 ## 🧠 Tentang Saya
 
 Saya adalah siswa **Rekayasa Perangkat Lunak (RPL)** kelas 2 yang berfokus pada **pengembangan website**.  
