@@ -31,11 +31,11 @@ Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi
 💬 Kadang saya juga bikin taktik formasi dan analisa gameplay seperti dev yang ngatur sistem 😆  
 <img src="image/Pes1.jpg" width="120" alt="eFootball logo" style="float: left; margin-right: 10px;" />
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Gaming animation"/>
 </p>
+
+---
 
 ## 🛠️ Bahasa & Teknologi
 
