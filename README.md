@@ -23,7 +23,7 @@ Saya percaya bahwa kode bukan sekadar teks — tapi seni digital yang bisa mengh
 
 💬 Motto: *“Bukan hanya menulis kode, tapi membangun pengalaman pengguna.”*
 <p align="center">
-  <img src="video/starboy.gif" width="300" alt="Nagi Sheisiro"</>
+  <img src="video/starboy.gif" width="300" alt="Nagi Sheisiro" />
 </p>
 
 ---
