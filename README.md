@@ -18,6 +18,25 @@ Saya percaya bahwa kode bukan sekadar teks — tapi seni digital yang bisa mengh
 💬 Motto: *“Bukan hanya menulis kode, tapi membangun pengalaman pengguna.”*
 
 ---
+## 🕹️ Tentang Gaming
+
+Selain ngoding, saya juga aktif di dunia game! 🎮  
+Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi, refleks, dan ketelitian — sama seperti coding.
+
+🎮 **Game Utama:** eFootball  
+👑 **Nickname:** `PrinceRiel`  
+🏆 **Rank Saat Ini:** Divisi 2  
+⚡ **Gaya Bermain:** Strategis, menyerang cepat, dan fokus ke teamwork.  
+🖥️ **Platform:** Mobile & PC  
+💬 Kadang saya juga bikin taktik formasi dan analisa gameplay seperti dev yang ngatur sistem 😆  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/EFootball_logo.png" width="120" alt="eFootball logo"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Gaming animation"/>
+</p>
 
 ## 🛠️ Bahasa & Teknologi
 
