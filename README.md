@@ -31,7 +31,7 @@ Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi
 💬 Kadang saya juga bikin taktik formasi dan analisa gameplay seperti dev yang ngatur sistem 😆  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/EFootball_logo.png" width="120" alt="eFootball logo"/>
+  <img src="image/Pes.jpg" width="120" alt="eFootball logo"/>
 </p>
 
 <p align="center">
