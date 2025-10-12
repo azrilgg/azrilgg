@@ -23,7 +23,7 @@ Saya percaya bahwa kode bukan sekadar teks — tapi seni digital yang bisa mengh
 
 💬 Motto: *“Bukan hanya menulis kode, tapi membangun pengalaman pengguna.”*
 <p align="center">
-  <video src="video/starboy.mp4" width="420" alt="Nagi Blue Lock"/>
+  <video src="video/starboy.mp4" width="420" controls></video>
 </p>
 
 ---
