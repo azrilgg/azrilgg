@@ -41,10 +41,6 @@ Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Gaming animation"/>
 </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3jskwnn7nxx66pn7bt7yhfqcm&cover_image=true&theme=novatorem" />
-</p>
-
 ---
 
 ## 🛠️ Bahasa & Teknologi
