@@ -1,4 +1,7 @@
 <!-- 🌟 GITHUB PROFILE AHMAD AZRIEL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=180&section=header&text=Ahmad%20Azriel%20👨‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h1 align="center">👋 Halo, Saya <span style="color:#00BFFF;">Ahmad Azriel</span></h1>
 <h3 align="center">💻 Siswa RPL | Web Developer | Frontend Enthusiast</h3>
