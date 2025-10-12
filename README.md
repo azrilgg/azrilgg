@@ -24,7 +24,7 @@ Saya percaya bahwa kode bukan sekadar teks — tapi seni digital yang bisa mengh
 💬 Motto: *“Bukan hanya menulis kode, tapi membangun pengalaman pengguna.”*
 
 <p align="center">
-  <img src="https://media.tenor.com/B_hcDU4yyVIAAAAC/nagi-seishiro-blue-lock.gif" width="420" alt="Nagi Blue Lock"/>
+  <img src="https://i.imgur.com/mPfV5FW.gif" width="420" alt="Nagi Blue Lock"/>
 </p>
 
 ---
