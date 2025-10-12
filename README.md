@@ -23,6 +23,8 @@ Saya percaya bahwa kode bukan sekadar teks — tapi seni digital yang bisa mengh
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
