@@ -110,7 +110,7 @@ Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi
 
 ---
 
-## 🐍 Animasi Kontribusi
+## Kontribusi
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
