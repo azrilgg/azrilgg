@@ -33,7 +33,7 @@ Selain ngoding, saya juga aktif di dunia game! 🎮
 Saya sering main **eFootball**, dan saya percaya game juga bisa melatih strategi, refleks, dan ketelitian — sama seperti coding.
 
 🎮 **Game Utama:** eFootball  
-👑 **Nickname:** `PrinceRiel`  
+👑 **Nickname:** `princeRIEL`  
 🏆 **Rank Saat Ini:** Divisi 2  
 ⚡ **Gaya Bermain:** Strategis, menyerang cepat, dan fokus ke teamwork.  
 🖥️ **Platform:** Mobile & PC  
