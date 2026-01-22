@@ -45,7 +45,7 @@
     <td align="center" width="300">
       <!-- 🌟 "VIDEO ANIME BERGERAK" SECTION (Your requested feature) 🌟 -->
       <!-- Menggunakan GIF yang sudah ada atau placeholder anime keren -->
-      <div class="tenor-gif-embed" data-postid="24957355" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/blue-lock-nagi-seishiro-blue-lock-gif-24957355">Blue Lock Nagi Seishiro GIF</a>from <a href="https://tenor.com/search/blue+lock+nagi+seishiro-gifs">Blue Lock Nagi Seishiro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+     <script> <div class="tenor-gif-embed" data-postid="24957355" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/blue-lock-nagi-seishiro-blue-lock-gif-24957355">Blue Lock Nagi Seishiro GIF</a>from <a href="https://tenor.com/search/blue+lock+nagi+seishiro-gifs">Blue Lock Nagi Seishiro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       <img src="video/starboy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" alt="Anime Profile Video" />
       <br/><br/>
       <img src="httPs://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 5px;" alt="Coding Animation"/>
