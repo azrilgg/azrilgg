@@ -31,15 +31,12 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
 ----------------------------------------------------------------------------------------
-Username: Keima Tatsuya「桂馬達也」
+Username: Ahmad Azriel
 WhoamI: Physicist. Programmer. Anime lover. Gamer. Musician.
 Blog: When I have a domain I put it here.
 OS: Arch Linux with KDE Plasma 6 Desktop Environment
 Shell: zsh 5.9
 Telegram: @yoshimakayaba. (You can contact me here :v)
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: Nakano_Itsuki (中野五月) ❤️ && Raphtalia (ラフタリア) 💘 
 Pronouns: He/Him (彼/彼の)
 Location: Planet Kepler-452b 🌍🪐✨
 Languages: C/C++, Python, JavaScript, HTML, CSS, Bash, Shell Script. (Well sometimes I remember those languages :v) 
@@ -48,10 +45,8 @@ FavouriteSong: Sweeter than wine by NCW
 FavouriteEquation: Schrödinger && Shannon Entropy Equation
 Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listening music, Learning new things. (I love to see the world with another point of view)
 Languages.Learning: English (B1 ~ B2) || French (A2) || German (A1) || Japanese (N5 ~ N4)
-Language.Speaks: Spanish (Native) || English (B2 ~ C1) || Japanese (N5 ~ N4)
-My.Idols (アイドル): 高橋 李依 (Takahashi Rie) && 水瀬 いのり (Minase Inori) || 雨宮 天 (Amamiya Sora) || 佐倉 綾音 (Sakura Ayane) || ADO
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito) 
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
+Language.Speaks: English (B2 ~ C1) 
+My.Idols (アイドル): Lionel Messi
 
 ```
 
