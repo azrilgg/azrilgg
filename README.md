@@ -46,7 +46,7 @@
       <!-- 🌟 "VIDEO ANIME BERGERAK" SECTION (Your requested feature) 🌟 -->
       <!-- Menggunakan GIF yang sudah ada atau placeholder anime keren -->
      
-      <img src="https://tenor.com/bQSH9.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" alt="Anime Profile Video" />
+      <img src="" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" alt="Anime Profile Video" />
       <br/><br/>
       <img src="httPs://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 5px;" alt="Coding Animation"/>
     </td>
