@@ -189,3 +189,50 @@ Saya tidak sekadar "membuat website". Saya **membangun pengalaman**. Dengan perp
 <i>Created with ❤️ and ☕ by <b>Ahmad Azriel</b></i>
 
 </div>
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px;"/>
+
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=SYSTEM.INIT(User%3A+Ahmad+Azriel)%3B;Loading+God_Mode_Modules...;%3E+Full+Stack+Sorcerer;%3E+UI%2FUX+Architect;%3E+Performance+Obsessed;Code+is+Poetry.+Execution+is+Art." />
+  </a>
+
+  <br>
+
+  <p align="center">
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/LEVEL-GOD_MODE-cb2d3e?style=for-the-badge&logo=doom&logoColor=white" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/CLASS-S_TIER_DEV-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/SPECIALTY-VISUAL_ENGINEERING-00f260?style=for-the-badge&logo=nvidia&logoColor=black" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🧬 **SYSTEM CORE: IDENTIFY**
+
+```javascript
+const ahmadAzriel = {
+    codeName: "GodMode_Dev",
+    architecture: ["Frontend", "Creative UI", "High Performance"],
+    currentLocation: "Depok, West Java, ID",
+    education: "Rekayasa Perangkat Lunak (RPL)",
+    corePhilosophy: "Why build it, if you can't master it?",
+    status: "BUILDING THE FUTURE",
+    skills: {
+        languages: ["JavaScript", "TypeScript", "Python"],
+        frameworks: ["React", "Next.js", "TailwindCSS"],
+        tools: ["Figma", "Git", "Docker"]
+    },
+    mission: () => {
+        return "Creating digital experiences that feel like magic.";
+    }
+};
