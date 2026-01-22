@@ -39,21 +39,6 @@
   ## ⚡ 𝐀 𝐛 𝐨 𝐮 𝐭  𝐌 𝐞 ⚡
 
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <!-- 🌟 "VIDEO ANIME BERGERAK" SECTION (Your requested feature) 🌟 -->
-      <!-- Menggunakan GIF yang sudah ada atau placeholder anime keren -->
-     
-      <img src="" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" alt="Anime Profile Video" />
-      <br/><br/>
-      <img src="httPs://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 5px;" alt="Coding Animation"/>
-    </td>
-    <td width="500">
-
-    
-      https://camo.githubusercontent.com/8c2fd48c68bd50d5fe07e61020eb5c56f03707304e36dcb93244d1554130b8c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7248306a464d46357a334141414141432f6b697269746f2d73616f2e676966
 ### � *Siapa Saya?*
 
 Saya adalah seorang **Visioner Digital** & **Developer Muda** dari jurusan **Rekayasa Perangkat Lunak (RPL)**. Dunia saya bukan hanya tentang baris kode `0` dan `1`, melainkan tentang **menciptakan semesta digital** yang hidup, interaktif, dan memukau.
