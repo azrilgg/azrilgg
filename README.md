@@ -23,7 +23,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-john@keima: ~/my_readme (main⚡)$ neofetch
+azrilgg: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="img/TheEmminenceInShadow/cid.png" width="279px"/>
@@ -32,20 +32,16 @@ john@keima: ~/my_readme (main⚡)$ neofetch
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
 ----------------------------------------------------------------------------------------
 Username: Ahmad Azriel
-WhoamI: Physicist. Programmer. Anime lover. Gamer. Musician.
 Blog: When I have a domain I put it here.
-OS: Arch Linux with KDE Plasma 6 Desktop Environment
-Shell: zsh 5.9
-Telegram: @yoshimakayaba. (You can contact me here :v)
+OS: Windows 11
 Pronouns: He/Him (彼/彼の)
-Location: Planet Kepler-452b 🌍🪐✨
-Languages: C/C++, Python, JavaScript, HTML, CSS, Bash, Shell Script. (Well sometimes I remember those languages :v) 
+Location: Indonesia, Bogor 🌍🪐✨
+Languages: React js , HTML , CSS , Javascript , PHP Mysql , 
 Learning: Js, React, Node.js, Vue.js, Django, ML, AI. (So much to learn and so little time :v)
-FavouriteSong: Sweeter than wine by NCW
-FavouriteEquation: Schrödinger && Shannon Entropy Equation
-Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listening music, Learning new things. (I love to see the world with another point of view)
+FavouriteSong: Closer The chainsmokers ft.halsey
+Hobbies: Programming,Playing videogames, Listening music, Playing Football ,learning new things to see the world with another point of view)
 Languages.Learning: English (B1 ~ B2) || French (A2) || German (A1) || Japanese (N5 ~ N4)
-Language.Speaks: English (B2 ~ C1) 
+Language.Speaks: Indonesia 
 My.Idols (アイドル): Lionel Messi
 
 ```
@@ -123,13 +119,13 @@ My.Idols (アイドル): Lionel Messi
     <h2 align="center"> 💻 I've Worked With  </h2>
     <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=java,kotlin,latex,swift,css,html,tensorflow,aws,haskell&perline=3"alt="My Skills"> 
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=css,html,react,php,nodejs, javascript, typescript,haskell&perline=3"alt="My Skills"> 
         </a>
     </p>
     <h2 align="center"> 🛠️ I'm still learning or working on  </h2>
     <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,py,sklearn,c,cpp,css,html,nodejs,react,vuejs,mysql,django&perline=8"alt="My Skills"> 
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,css,html,nodejs,react,vite,mysql,django&perline=8"alt="My Skills"> 
         </a>
     </p>
 </div>
@@ -177,18 +173,15 @@ My.Idols (アイドル): Lionel Messi
 <br>
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a href="https://github.com/JohnKun136NVCP" target="_blank">
+    <a href="https://github.com/azrilgg" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
-    </a>
-    <a href="https://twitter.com/JohnWilliamBn" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
     </a>
     <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
@@ -215,4 +208,3 @@ My.Idols (アイドル): Lionel Messi
 </p>
 
 
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
