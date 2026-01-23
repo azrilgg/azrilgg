@@ -45,25 +45,6 @@ Language.Speaks: Indonesia
 My.Idols (アイドル): Lionel Messi
 
 ```
-
-
-         
-
-
-<h2 align ="center"> 📝 Contact me 📝</h2>
-<br> 
-<div align="center">
-    <a href="https://github.com/azrilgg" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
-    </a>
-    <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
-    </a>
-    <br>
-    <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "500">
-</div>  
-<br>
-<div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c3c3cbd-7a4c-43da-b1cb-0a207be30230/dixdo22-7f42f7c1-1344-4843-8334-4cbbb22cd9bb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84YzNjM2NiZC03YTRjLTQzZGEtYjFjYi0wYTIwN2JlMzAyMzAvZGl4ZG8yMi03ZjQyZjdjMS0xMzQ0LTQ4NDMtODMzNC00Y2JiYjIyY2Q5YmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XjOv2uL_Lllb4IACFJE0-TG6ij6mhCeK99mwXcmcC88" width="500"/>
