@@ -37,10 +37,10 @@ OS: Windows 11
 Pronouns: He/Him (彼/彼の)
 Location: Indonesia, Bogor 🌍🪐✨
 Languages: React js , HTML , CSS , Javascript , PHP Mysql , 
-Learning: Js, React, Node.js, Vue.js, Django, ML, AI. (So much to learn and so little time :v)
+Learning: Js, React, Node.js, MonggoDB , ML, AI.Three js (So much to learn and so little time :v)
 FavouriteSong: Closer The chainsmokers ft.halsey
 Hobbies: Programming,Playing videogames, Listening music, Playing Football ,learning new things to see the world with another point of view)
-Languages.Learning: English (B1 ~ B2) || French (A2) || German (A1) || Japanese (N5 ~ N4)
+Languages.Learning: English (B1 ~ B2)
 Language.Speaks: Indonesia 
 My.Idols (アイドル): Lionel Messi
 
@@ -49,9 +49,6 @@ My.Idols (アイドル): Lionel Messi
 
          
 
-![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
