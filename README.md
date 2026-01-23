@@ -47,131 +47,7 @@ My.Idols (アイドル): Lionel Messi
 ```
 
 
-<div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <p align="right">
-        <a href = "https://www.youtube.com/watch?v=Sfz5TpCRSiI">
-            <img src = "https://i.ytimg.com/vi/Sfz5TpCRSiI/maxresdefault.jpg" width = "170" align = "right">
-        </a>
-       <b>ずっと真夜中でいいのに🎶「猫リセット」。🐱 ⏪<br><br></b>
-    </p>
-    <br>
-    <br>
-    <p align="right">
-        <a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM">
-            <img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left">
-        </a>
-        <b>奏(かなで)CV:高橋李依とCV:雨宮天<br>🎵ふたりはいつもどんな時もつながっていける。🎵</b>
-    </p>
-    <br>
-    <br>
-    <p align="left">
-        <a href = "https://www.youtube.com/watch?v=oXlEEXws3gc">
-            <img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right">
-        </a>
-        <b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b>
-    </p>
-    <br>
-    <br>
-    <p align="right">
-        <a href="https://www.youtube.com/watch?v=jC97suFyObw">
-            <img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left">
-        </a>
-        <b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
-    <br>
-    <br>
-    <p align="left">
-    <a href="https://youtu.be/b_cuMcDWwsI?si=od4QcDPpNVk">
-        <img src="https://i.ytimg.com/vi/od4QcDPpNVk/hqdefault.jpg" width="170" align="right">
-    </a>
-    <b><br>かめりあ - ヒアソビ (feat. 初音ミク) 【Electroswing】💘🪄💕</b>
-    </p>
-</div>
-
-<br>
-<br>
-<br>
-
-<div>
-    <h2 align="center"> 🔎Knowledge📖 </h2>
-</div>
-<div align = "center">
-    <p align = "justify">
-        I am a person passionate about technology and continuous learning. At the moment, I am strengthening my knowledge in networks and cybersecurity, studying CCNA and beginning with the fundamentals of CCNP. I am also starting to explore the field of Artificial Intelligence and Machine Learning, areas that excite me because of their impact on the future.
-    </p>
-    <p align = "justify">
-        In the past, I worked with Jupyter Notebook for data analysis and artificial intelligence, applying graph theory to social networks. Today, I am focused on improving my skills in software development, even though I recognize that I am still in the process of growth.
-    </p>
-    <p align = "justify">
-        Regarding programming, I have experience with C and C++, and I also use Python for projects related to analysis and automation. I work with JavaScript together with HTML and CSS for web development, and I rely on Bash and Shell Script for system administration and tasks in Linux environments.
-    </p>
-    <p align = "justify">
-        My native language is Spanish, I am improving my English, and I am also studying Japanese with a level close to N4. I strive every day to improve in each area of specialization, convinced that continuous learning is the key to professional growth. My repositories reflect my progress and dedication.
-    </p>
-    <p align = "justify">
-        In addition, I enjoy Japanese culture and I am a big fan of anime, which complements my interest in languages and technology.
-        <br>
-    </p>
-    <br>
-    <h2 align="center"> 💻 I've Worked With  </h2>
-    <p align = "center">
-         <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=css,html,react,php,nodejs, javascript, typescript,haskell&perline=3"alt="My Skills"> 
-        </a>
-    </p>
-    <h2 align="center"> 🛠️ I'm still learning or working on  </h2>
-    <p align = "center">
-         <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,github,gitlab,css,html,nodejs,react,vite,mysql,django&perline=8"alt="My Skills"> 
-        </a>
-    </p>
-</div>
-<br>
-<br>
-<br>
-
-<div>
-    <h2 align = "center"> 🏆 My Badges </h2>
-</div>
-<div align="center">
-    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
-    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-switching-routing-and-wireless-essentials.1.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/ccna-enterprise-networking-security-and-automation.png" height="120px" width="120px"/>
-    <img align="center" src="badges/introduction-to-cybersecurity.png" height="120px" width="120px"/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/tillend1x100.png" alt="Your Image Badge" />
-</div>
-<br>
-<br>
-<br>
-
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div> 
-    <p align = "center">
-<!--         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
-        </a> -->
-        <a href="https://github-readme-streak-stats.herokuapp.com">
-            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
-        </a><!--change language to japanese locale=jp-->
-<!--         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
-        </a> -->
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
-        </a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
-    </p>
-</div>
-<br>
-<br>
-<h1 align="center"> My contributions game 🐍🎮</h1>
+         
 
 ![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake.svggh-light-mode-only)
@@ -200,11 +76,6 @@ My.Idols (アイドル): Lionel Messi
 <br>
 
     
-<h1 align="center">Support Me 🎧🎤  </h1>
 
-<p align="center">
-      <img src="https://i.pinimg.com/originals/cc/85/19/cc8519f9b3f798c87451e5c78b9e1629.gif">
-⠀⠀⠀⠀⠀<img src="img/vocaloid/vocaloidchibi.png">
-</p>
 
 
