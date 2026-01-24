@@ -26,7 +26,7 @@
 azrilgg: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="right" src="image/riel.jpg" width="50px"/>
+<img align="left" src="image/riel.jpg" width="50px"/>
 
 ```csharp
 My Profile ver. 6.0.0: 何も真実ではなく、すべてが許されているのでございます。
