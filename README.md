@@ -6,9 +6,6 @@
     </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
-        <a href="https://t.me/yoshimakayaba">
-            <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-        </a>
     </p>
 </div>
 
