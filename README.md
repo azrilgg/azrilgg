@@ -117,7 +117,10 @@ My.Idols (アイドル): Lionel Messi
 
 <br><br>
 
-<h1 align="center">🐍 My Contributions Game 🎮</h1>
+<h1 align="center">🐍 Contributions Game 🎮</h1>
+![Snake dark](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 
