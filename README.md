@@ -42,6 +42,56 @@ Language.Speaks: Indonesia
 My.Idols (アイドル): Lionel Messi
 
 ```
-    
+
+<div>
+  <h2 align="center">🔎 Tentang Saya 📖</h2>
+</div>
+
+<div align="center">
+  <p align="justify">
+    Saya adalah siswa <b>SMK RPL 2</b> yang memiliki minat besar di dunia <b>teknologi dan pengembangan web</b>. 
+    Saat ini saya fokus mengembangkan diri sebagai <b>Frontend Developer</b> dengan memanfaatkan 
+    <b>Artificial Intelligence (AI)</b> dan berbagai tools modern untuk meningkatkan produktivitas dan kualitas proyek.
+  </p>
+
+  <p align="justify">
+    Saya terbiasa membangun antarmuka web yang <b>responsif, modern, dan user-friendly</b> menggunakan 
+    <b>HTML, CSS, dan JavaScript</b>. Selain itu, saya juga menggunakan framework dan library seperti 
+    <b>React.js</b> dan <b>Tailwind CSS</b> untuk mempercepat pengembangan dan menjaga konsistensi desain.
+  </p>
+
+  <p align="justify">
+    Di sisi backend dasar, saya menggunakan <b>PHP</b> dan <b>MySQL</b> untuk mengelola data dan membuat 
+    aplikasi web sederhana yang terintegrasi. Saya juga mulai mendalami <b>TypeScript</b> untuk menulis 
+    kode JavaScript yang lebih aman dan terstruktur.
+  </p>
+
+  <p align="justify">
+    Saya percaya bahwa <b>belajar secara konsisten</b> dan memanfaatkan teknologi AI adalah kunci untuk 
+    berkembang di industri software. Setiap proyek yang saya kerjakan menjadi bagian dari proses belajar 
+    dan peningkatan skill saya sebagai calon software developer profesional.
+  </p>
+
+  <br>
+
+  <h2 align="center">💻 Tech Stack yang Saya Gunakan</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img style="margin: 10px"
+        src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,php,mysql&perline=4"
+        alt="My Skills">
+    </a>
+  </p>
+
+  <h2 align="center">🛠️ Sedang Dipelajari & Dikembangkan</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img style="margin: 10px"
+        src="https://skillicons.dev/icons?i=git,github,nodejs,vuejs,figma,ai&perline=6"
+        alt="Learning Skills">
+    </a>
+  </p>
+</div>
+
 
 
