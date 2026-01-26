@@ -127,6 +127,26 @@ My.Idols (アイドル): Lionel Messi
 
 <br><br>
 
+<h2 align ="center"> 📝 Contact me 📝</h2>
+<br> 
+<div align="center">
+    <a href="https://github.com/azrilgg" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;">
+    </a>
+    <a href="https://wa.me/6285280721275" target="_blank">
+        <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;">
+    </a>
+    <a href="https://instagram.com/azrielfzx" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;">
+    </a>
+    <a href="https://www.linkedin.com/in/ahmad-azriel-923299378" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+    </a>
+    <br>
+    <img align="center" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="500">
+</div>
+<br>
+
 <div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
