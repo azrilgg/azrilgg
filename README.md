@@ -22,7 +22,7 @@
 ## 🖥️ System Information
 
 ```bash
-                   -`                    azrilgg@axioo
+                   -`                    Kayrielz || Frontend dev
                   .o+`                   -------------------------
                  `ooo/                   OS: Windows 11
                 `+oooo:                  Host: Axioo Hype 7 X7-2
