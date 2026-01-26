@@ -22,18 +22,27 @@
 ## 🖥️ System Information
 
 ```bash
-       /\_/\  
-      ( o.o )      azrilgg@axioo
-       > ^ <       -------------------------
-                   OS: Windows 11 (Linux-style)
-                   Host: Axioo Hype 7
-                   Kernel: Windows NT
-                   Shell: PowerShell
-                   CPU: AMD Ryzen 7 5825U
-                   GPU: Radeon Vega 8
-                   RAM: 8GB / 16GB
-                   Theme: Dark
-                   Terminal: Windows Terminal
+                   -`                    azrilgg@axioo
+                  .o+`                   -------------------------
+                 `ooo/                   OS: Windows 11
+                `+oooo:                  Host: Axioo Hype 7
+               `+oooooo:                 Kernel: Windows NT
+               -+oooooo+:                Shell: PowerShell
+             `/:-:++oooo+:               Terminal: Windows Terminal
+            `/++++/+++++++:              CPU: AMD Ryzen 7 5825U
+           `/++++++++++++++:             GPU: Radeon Vega 8
+          `/+++ooooooooooooo/`           RAM: 8GB / 16GB
+         ./ooosssso++osssssso+`          Theme: Dark
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+
+
 
 ```
 
