@@ -96,11 +96,7 @@ My.Idols (アイドル): Lionel Messi
 <h2 align="center">📉 GitHub Stats</h2>
 
 <div align="center">
-   <p align = "center">
-        <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
-        </a> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=azrilgg&theme=dark&locale=id&mode=weekly" alt="GitHub Streak" /></a>
+
   <p align="center">
     <!-- Activity Graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
