@@ -97,6 +97,10 @@ My.Idols (アイドル): Lionel Messi
 
 <div align="center">
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azrilgg&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
   <p align="center">
     <!-- Activity Graph -->
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -119,6 +123,7 @@ My.Idols (アイドル): Lionel Messi
 <br><br>
 
 <h1 align="center">🐍 Contributions Game 🎮</h1>
+
 
 
 
