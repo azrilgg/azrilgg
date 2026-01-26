@@ -93,5 +93,46 @@ My.Idols (アイドル): Lionel Messi
   </p>
 </div>
 
+<h2 align="center">📉 GitHub Stats</h2>
+
+<div align="center">
+  <p align="center">
+    <!-- GitHub Streak -->
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+      <img width="49%" 
+        alt="GitHub Streak" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=azrilgg&theme=neon&hide_border=false" />
+    </a>
+  </p>
+
+  <p align="center">
+    <!-- Activity Graph -->
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img width="120%" 
+        alt="GitHub Activity Graph" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=azrilgg&theme=redical" />
+    </a>
+  </p>
+
+  <p align="center">
+    <!-- Profile Summary -->
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img width="120%" 
+        alt="GitHub Profile Summary" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azrilgg&theme=2077" />
+    </a>
+  </p>
+</div>
+
+<br><br>
+
+<h1 align="center">🐍 My Contributions Game 🎮</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/azrilgg/azrilgg/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+
 
 
