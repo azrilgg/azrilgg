@@ -118,6 +118,11 @@ My.Idols (アイドル): Lionel Messi
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azrilgg&theme=2077" />
     </a>
   </p>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilgg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 </div>
 
 <br><br>
