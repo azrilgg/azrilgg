@@ -19,8 +19,22 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-```zsh
-azrilgg: ~/my_readme (main⚡)$ neofetch
+## 🖥️ System Information
+
+```bash
+       /\_/\  
+      ( o.o )      azrilgg@axioo
+       > ^ <       -------------------------
+                   OS: Windows 11 (Linux-style)
+                   Host: Axioo Hype 7
+                   Kernel: Windows NT
+                   Shell: PowerShell
+                   CPU: AMD Ryzen 7 5825U
+                   GPU: Radeon Vega 8
+                   RAM: 8GB / 16GB
+                   Theme: Dark
+                   Terminal: Windows Terminal
+
 ```
 
 <img align="left" src="image/riel.jpg" width="50px"/>
