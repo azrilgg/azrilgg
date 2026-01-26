@@ -25,7 +25,7 @@
                    -`                    azrilgg@axioo
                   .o+`                   -------------------------
                  `ooo/                   OS: Windows 11
-                `+oooo:                  Host: Axioo Hype 7
+                `+oooo:                  Host: Axioo Hype 7 X7-2
                `+oooooo:                 Kernel: Windows NT
                -+oooooo+:                Shell: PowerShell
              `/:-:++oooo+:               Terminal: Windows Terminal
