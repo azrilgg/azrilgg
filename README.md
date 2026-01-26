@@ -22,25 +22,26 @@
 ## 🖥️ System Information
 
 ```bash
-                   -`                    Kayrielz || Frontend dev
-                  .o+`                   -------------------------
-                 `ooo/                   OS: Windows 11
-                `+oooo:                  Host: Axioo Hype 7 X7-2
-               `+oooooo:                 Kernel: Windows NT
-               -+oooooo+:                Shell: PowerShell
-             `/:-:++oooo+:               Terminal: Windows Terminal
-            `/++++/+++++++:              CPU: AMD Ryzen 7 5825U
-           `/++++++++++++++:             GPU: Radeon Vega 8
-          `/+++ooooooooooooo/`           RAM: 8GB / 16GB
-         ./ooosssso++osssssso+`          Theme: Dark
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+                   -`                    Kayrielz || Frontend Dev
+                  .o+`                   --------------------------------------------
+                 `ooo/                   OS: Windows 11 Pro (Linux-style)
+                `+oooo:                  Host: Axioo Hype 7 AMD X7-2
+               `+oooooo:                 Manufacturer: Axioo Indonesia
+               -+oooooo+:                Kernel: Windows NT 10.0 (x64)
+             `/:-:++oooo+:               Uptime: Always On ☕
+            `/++++/+++++++:              Shell: PowerShell 7
+           `/++++++++++++++:             Terminal: Windows Terminal
+          `/+++ooooooooooooo/`           CPU: AMD Ryzen 7 5825U (8C / 16T)
+         ./ooosssso++osssssso+`          GPU: AMD Radeon Vega 8
+        .oossssso-````/ossssss+`         RAM: 8GB DDR4 / 16GB Max
+       -osssssso.      :ssssssso.        Storage: NVMe SSD
+      :osssssss/        osssso+++.       Resolution: 1920x1080
+     /ossssssss/        +ssssooo/-       Theme: Dark Mode
+   `/ossssso+/:-        -:/+osssso+-     Icons: Fluent UI
+  `+sso+:-`                 `.-/+oso:    WM: Explorer.exe
+ `++:.                           `-/+/   Font: Cascadia Code
+ .`                                 `/   Device Class: Laptop
+
 
 
 
