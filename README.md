@@ -141,13 +141,12 @@ My.Idols (アイドル): Lionel Messi
     </a>
   </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilgg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrilgg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrilgg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azrilgg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-
 
 </div>
 
